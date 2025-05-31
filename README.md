@@ -26,7 +26,7 @@ Untuk setiap bentuk, program akan menampilkan:
 * Massa dalam kilogram
 * Biaya Kirim (dalam Rupiah)
 
-## Struktur Proyek (Singkat)
+## Struktur Proyek
 
 Proyek ini diorganisir dalam beberapa package:
 * `uap.mains`: Berisi kelas utama aplikasi (`KalkulatorPabrik.java`).
